@@ -37,14 +37,17 @@ body {
 
 #add-button:hover {
     background-color: yellow;
+    font-size: 15px;
 }
 
 #subtract-button:hover {
     background-color: red;
+    font-size: 14px;
 }
 
 #multiply-button:hover {
     background-color: green;
+    font-size: 15px;
 }
 
 form {
